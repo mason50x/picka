@@ -1,1 +1,1 @@
-# picka
+PickaAI \ Cognify \ picka.college
